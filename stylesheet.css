@@ -1,0 +1,71 @@
+@font-face {
+    font-family: 'Mohol';
+    src: url('https://drive.google.com/file/d/1cs1TgH-Pg_N6Vpl1KXz-EeDtIzNKRLvV');
+    src: url('https://drive.google.com/file/d/1cs1TgH-Pg_N6Vpl1KXz-EeDtIzNKRLvV?#iefix') format('embedded-opentype'),
+        url('https://drive.google.com/file/d/1xeYMmoN2SVBsxN4BFRkbIf4MrViEZKEx') format('woff2'),
+        url('https://drive.google.com/file/d/13ZsbRUBMURSCauoggwUoY6pj2XeK4GEO') format('woff'),
+        url('https://drive.google.com/file/d/15BOM7VXjH2vICjS2fqAeWZGHMk0ESiHO') format('truetype'),
+        url('https://drive.google.com/file/d/1JDDowa9I-3rh1i9k-HVlpsp6v4Erc-pU#Mohol-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Mohol';
+    src: url('https://drive.google.com/file/d/1ictJJhmvqcXjzFfth-Cp_dc7x82o7mHM');
+    src: url('https://drive.google.com/file/d/1ictJJhmvqcXjzFfth-Cp_dc7x82o7mHM#iefix') format('embedded-opentype'),
+        url('https://drive.google.com/file/d/1yAmhmUfk-8c1C34J4srFD7oJMJH0Jq9c') format('woff2'),
+        url('https://drive.google.com/file/d/1fz_n0Uz5IHBzncVIKDoqubFPQWsHSHZ3') format('woff'),
+        url('https://drive.google.com/file/d/1PdUNcknyQd_tLfOaj32GQNF216DGumYS') format('truetype'),
+        url('https://drive.google.com/file/d/1ZeKFDNX6EL5qQr1m11vjeU_vABiKdziZ#Mohol-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Mohol';
+    src: url('https://drive.google.com/file/d/1tIVJXu8zMVLB701KrdP8xi_lqrjsNW3n');
+    src: url('https://drive.google.com/file/d/1tIVJXu8zMVLB701KrdP8xi_lqrjsNW3n?#iefix') format('embedded-opentype'),
+        url('https://drive.google.com/file/d/1WFdLeWiUWOM1tIedlheakMatRQLrhKql') format('woff2'),
+        url('https://drive.google.com/file/d/1qd_xOJWBCvJvGxlAEjZCF2qYhEnaahgU') format('woff'),
+        url('https://drive.google.com/file/d/1Mvg-eBqcMEb6AUz1WRTT-pc00yh0Iiwf') format('truetype'),
+        url('https://drive.google.com/file/d/1n4TbdE_y9eDQzjzjfWBIjga8emT26MUY#Mohol-Black') format('svg');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Mohol';
+    src: url('https://drive.google.com/file/d/1iGeoRRhJiX2EgdOsxMljgzk8VB1hugl8');
+    src: url('https://drive.google.com/file/d/1iGeoRRhJiX2EgdOsxMljgzk8VB1hugl8?#iefix') format('embedded-opentype'),
+        url('https://drive.google.com/file/d/1wWvFimTFyEPq-acJ-eqdW1kJZwdzV9HI') format('woff2'),
+        url('https://drive.google.com/file/d/1mxFykZ-c2WWHjRLy08qR-qurR8Jz3B1V') format('woff'),
+        url('https://drive.google.com/file/d/1nSHl8jIsiyQ9xDXe8LFrVz_RBGOHWOEf') format('truetype'),
+        url('https://drive.google.com/file/d/1tmfvrsqCcUT9PsFD8WRkKBjpx39uD0UT#Mohol-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Mohol Ultra';
+    src: url('https://drive.google.com/file/d/1t0dQsoAV49cmqOWMtE6sO6_swWkNboHM');
+    src: url('https://drive.google.com/file/d/1t0dQsoAV49cmqOWMtE6sO6_swWkNboHM?#iefix') format('embedded-opentype'),
+        url('https://drive.google.com/file/d/1i4opBPzWxsBf4S8dOqZTanA0uDj8vj79') format('woff2'),
+        url('https://drive.google.com/file/d/1kgJjBp6J7upbMHut94mZ6aYU3ODAwuFJ') format('woff'),
+        url('https://drive.google.com/file/d/1gtRBg5RCcSRFQRP5fbjXoQtGfQOO81NE') format('truetype'),
+        url('https://drive.google.com/file/d/1q1d75BGdQpJRl6zXp5-sUEWmC3Db7sAE#Mohol-Ultra') format('svg');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Mohol';
+    src: url('https://drive.google.com/file/d/1PW4g5SB_vMxnrcxl-onV1Rgfs1_8IUIX');
+    src: url('https://drive.google.com/file/d/1PW4g5SB_vMxnrcxl-onV1Rgfs1_8IUIX?#iefix') format('embedded-opentype'),
+        url('https://drive.google.com/file/d/1kcYNdAOO7HGannwQRmLIC216AD1G031w') format('woff2'),
+        url('https://drive.google.com/file/d/1-rXeE1qNH7evBGfWATaIRNhdjI8ibGQg') format('woff'),
+        url('https://drive.google.com/file/d/1PuEdEQAjkR0cl01xKXdVliPG3-xKluwn') format('truetype'),
+        url('https://drive.google.com/file/d/1ZMF02XaA4W4lzWY99ji7Hghzri2x5b1v') format('svg');
+    font-weight: 100;
+    font-style: normal;
+}
