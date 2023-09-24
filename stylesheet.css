@@ -18,7 +18,7 @@
         url('https://github.com/deepcriatividade/mohol/blob/main/subset-Mohol-Light.woff') format('woff'),
         url('https://github.com/deepcriatividade/mohol/blob/main/subset-Mohol-Light.ttf') format('truetype'),
         url('https://github.com/deepcriatividade/mohol/blob/main/subset-Mohol-Light.svg#Mohol-Light') format('svg');
-    font-weight: 300;
+    font-weight: light;
     font-style: normal;
 }
 
@@ -30,7 +30,7 @@
         url('https://github.com/deepcriatividade/mohol/blob/main/subset-Mohol-Black.woff') format('woff'),
         url('https://github.com/deepcriatividade/mohol/blob/main/subset-Mohol-Black.ttf') format('truetype'),
         url('https://github.com/deepcriatividade/mohol/blob/main/subset-Mohol-Black.svg#Mohol-Black') format('svg');
-    font-weight: 900;
+    font-weight: black;
     font-style: normal;
 }
 
@@ -54,7 +54,7 @@
         url('https://github.com/deepcriatividade/mohol/blob/main/subset-Mohol-Ultra.woff') format('woff'),
         url('https://github.com/deepcriatividade/mohol/blob/main/subset-Mohol-Ultra.ttf') format('truetype'),
         url('https://github.com/deepcriatividade/mohol/blob/main/subset-Mohol-Ultra.svg#Mohol-Ultra') format('svg');
-    font-weight: 900;
+    font-weight: 800;
     font-style: normal;
 }
 
@@ -66,6 +66,6 @@
         url('https://github.com/deepcriatividade/mohol/blob/main/subset-Mohol-Thin.woff') format('woff'),
         url('https://github.com/deepcriatividade/mohol/blob/main/subset-Mohol-Thin.ttf') format('truetype'),
         url('https://github.com/deepcriatividade/mohol/blob/main/subset-Mohol-Thin.svg#Mohol-Thin') format('svg');
-    font-weight: 100;
+    font-weight: thin;
     font-style: normal;
 }
